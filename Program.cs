@@ -10,7 +10,7 @@
 }
 Console.WriteLine(ContainsDuplicate(new int[]{1,2,3,1}));
 Console.WriteLine(ContainsDuplicate(new int[]{1,2,3,4}));
-Console.WriteLine(ContainsDuplicate(new int[]{1,2,3,4,2}));
+//Console.WriteLine(ContainsDuplicate(new int[]{1,2,3,4,2}));
 /*
 echo "# test" >> README.md
 git init
