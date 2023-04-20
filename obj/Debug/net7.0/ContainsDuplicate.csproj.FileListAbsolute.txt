@@ -1,0 +1,15 @@
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.deps.json
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.runtimeconfig.json
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.dll
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/bin/Debug/net7.0/ContainsDuplicate.pdb
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.csproj.AssemblyReference.cache
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfoInputs.cache
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.AssemblyInfo.cs
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.dll
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/refint/ContainsDuplicate.dll
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.pdb
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ContainsDuplicate.genruntimeconfig.cache
+/Users/admin/Downloads/pro-c-sharp-10-main/Chapter_15/ContainsDuplicate/obj/Debug/net7.0/ref/ContainsDuplicate.dll
